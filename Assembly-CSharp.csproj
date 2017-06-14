@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\UIFrameWork\BaseItem.cs" />
+     <Compile Include="Assets\Scripts\UIFrameWork\BaseUI.cs" />
+     <Compile Include="Assets\Scripts\UIFrameWork\BaseUIInfo.cs" />
+     <Compile Include="Assets\Scripts\UIFrameWork\UIModule.cs" />
+     <Compile Include="Assets\Scripts\UIFrameWork\UIType.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity5.6/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
